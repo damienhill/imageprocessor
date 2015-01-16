@@ -1,3 +1,6 @@
-# imageprocessor
+# Image Processor
 
-Requires Node and Graphics Magick.
+## Requirements 
+- Node JS
+- CoffeeScript
+- Graphics Magick
